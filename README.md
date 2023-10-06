@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imankitsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="imankitsaxena" /> </p>
 
-- 🔭 I’m currently working on [Zomato - Exploratory Data Analysis](https://github.com/imankitsaxena/Zomato-Exploratory-Data-Analysis)
+- 🔭 I have worked on [Zomato - Exploratory Data Analysis](https://github.com/imankitsaxena/Zomato-Exploratory-Data-Analysis)
 
 - 🌱 I’m currently learning **SQL, MS Excel, Python, PowerBI**
 
